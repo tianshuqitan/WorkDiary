@@ -4,5 +4,6 @@
 
 ## 最新文章
 
+- [AI](./AI/AI_Readme.md)
 - [第一篇文章](./_posts/first-post.md)
 - [VuePress使用指南](./_posts/vuepress-guide.html)

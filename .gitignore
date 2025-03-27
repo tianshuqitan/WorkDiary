@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# VuePress
+.cache/
+.temp/
+dist/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
